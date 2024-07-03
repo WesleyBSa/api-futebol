@@ -24,7 +24,7 @@ The Tabela API provides a list of teams and their positions in the Brazilian cha
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/WesleyBSa/api-futebol.git
    cd repository-name
    ```
 
